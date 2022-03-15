@@ -1,5 +1,5 @@
-#Python Files
-##Including:
+# Python Files
+## Including:
 - GCSE Dice game
 - GCSE Dice Game GUI
 - Bus Task
