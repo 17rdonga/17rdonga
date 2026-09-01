@@ -1,7 +1,7 @@
 # Rohan Donga
 Economics undergraduate at the University of Cambridge interested in Statistics and Microeconomics.
 ## Projects:
-- **ADR premium tracker** - simple app that updates every day to show how much lower or higher  a selection of US ADR stocks trade in comparison with the local exchange price. 
+- **ADR premium tracker** - simple app that updates every day to show how much lower or higher  a selection of US ADR stocks trade in comparison with the local exchange price. https://github.com/17rdonga/ADR-premium-tracker
 - **IMC Prosperity algorithmic trading competition**: ranked 7th in the UK and 100th in the world out of 12,000 entries. Programmed mean reversion, market making and momentum trading strategies using Avellaneda-Stoikov market  making. I frequently used backtesting and visualisers to understand price patterns and prevent overfitting.
 - **Consumer Confidence as a leading indicator**: created a consumer confidence index using Google Trends data. Employed Granger Causality and unit root tests to understand whether Consumer confidence statistically 'leads' other economic indicators such as GDP and inflation.
 ## What I'm Working on:
